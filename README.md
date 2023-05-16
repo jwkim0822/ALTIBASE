@@ -1,0 +1,2 @@
+# ALTIBASE
+Altibase Script
